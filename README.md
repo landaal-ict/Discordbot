@@ -14,4 +14,7 @@ en zet daar in
 token="hier je discrod bot token"
 ```
 
+### Documentatie van discord.py
+[KLIK HIER](https://discordpy.readthedocs.io/en/stable/)
+
 ## Have Fun!
